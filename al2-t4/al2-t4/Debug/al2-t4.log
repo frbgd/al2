@@ -1,0 +1,3 @@
+﻿  al2-t4.cpp
+c:\users\kap17\source\repos\al2-t4\al2-t4\al2-t4.cpp(11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  al2-t4.vcxproj -> C:\Users\kap17\source\repos\al2-t4\Debug\al2-t4.exe

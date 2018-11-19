@@ -1,0 +1,4 @@
+﻿  stl2.cpp
+c:\users\kap17\source\repos\myrepo\stl2\stl2\stl2.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kap17\source\repos\myrepo\stl2\stl2\stl2.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+  stl2.vcxproj -> C:\Users\kap17\source\repos\MyRepo\stl2\Debug\stl2.exe
